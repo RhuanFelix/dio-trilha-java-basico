@@ -1,3 +1,3 @@
-# Resolução do desafio de projeto
+# Resolução do Desafio de Projeto
 
-Este é um desafio de projeto da DIO da [trilha-java-basico: controle-fluxo](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo)
+Este diretório contém a resolução de um desafio de projeto da DIO, referente à [Trilha Java Básico - Controle de Fluxo](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo)
